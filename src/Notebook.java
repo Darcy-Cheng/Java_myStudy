@@ -1,5 +1,6 @@
 //Code comes from Weng Kai (ZJU) 's courses in MOOC.
 //A sample of Arraylist in Java.
+
 import java.util.ArrayList;
 
 public class Notebook
@@ -8,7 +9,7 @@ public class Notebook
 
         public void add(String s)
             {
-
+                notes.add(s);
             }
 
         public int GetSize()
