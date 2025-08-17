@@ -29,6 +29,9 @@ public class Notebook
 
         public static void main(String[] args)
             {
+                Notebook note1 = new Notebook();
+                note1.add("First");
+                note1.add("Second");
 
             }
     }
