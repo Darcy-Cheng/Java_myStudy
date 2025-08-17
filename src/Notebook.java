@@ -14,7 +14,7 @@ public class Notebook
 
         public int GetSize()
             {
-                return 0;
+                return notes.size();
             }
 
         public String GetNote(int index)
